@@ -2,4 +2,7 @@
     <string name="app_name">Practice</string>
     <string name="name_text">Taofeek Oduola</string>
     <string name="job_title">Junior Mobile App Developer</string>
+    <string name="button_add">Add Friend</string>
+    <string name="button_message">Message</string>
+    <string name="button_remove">Remove</string>
 </resources>
